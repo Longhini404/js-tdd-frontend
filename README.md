@@ -2,8 +2,8 @@
 
 ## Run
 
-- Use `yarn ci` to restore dependencies
-- Use `yarn start` to run the app on thr browser
-- Use `yarn test` to run the unit test suite
-- Use `yarn run test:cov` to get code coverage insights
-- Use `yarn run test:watch` to run all suites with code watcher enable
+- `yarn ci`
+- `yarn start`
+- `yarn test`
+- `yarn run test:cov`
+- `yarn run test:watch`
